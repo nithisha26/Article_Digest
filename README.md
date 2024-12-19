@@ -9,3 +9,6 @@
   <li><strong>Text-to-Speech:</strong> Listen to the summary with a text-to-speech feature.</li>
   <li><strong>User-Friendly:</strong> Simple and intuitive interface to quickly digest articles.</li>
 </ul>
+
+## Project Preview
+![Screenshot 2024-12-19 124954](https://github.com/user-attachments/assets/50f2fa0b-7ce5-4e95-bd4f-bc7135c1cda1)
